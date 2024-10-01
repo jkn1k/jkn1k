@@ -1,8 +1,8 @@
-# jkn1k
+# @jkn1k
 
-============
+Pierwsze Repozytorium
 
-## Test
+## Testowy Teskt
 
 _Praktyki_
 
