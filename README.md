@@ -2,9 +2,9 @@
 
 Pierwsze Repozytorium
 
-## Testowy Teskt
+## Testowy tytuł
 
-_Praktyki_
+*_Praktyki_*
 
 ### Testowa tabela
 | Tabela1 | Tabela2 |
