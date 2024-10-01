@@ -6,8 +6,8 @@
 
 _Praktyki_
 
-### Testowe
+### Testowa tabela
 | Tabela1 | Tabela2 |
 | ------- | ------- |
 | `test`  | `test2` |
-@jkn1k
+| Wartosc1 | Wartosc2 |
