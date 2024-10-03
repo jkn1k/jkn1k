@@ -13,3 +13,5 @@ Pierwsze Repozytorium
 | Wartosc1 | Wartosc2 |
 
 ### Kolejny tytuł
+
+This is a test repository to get familiar with working with github.
