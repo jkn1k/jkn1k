@@ -13,3 +13,7 @@ Pierwsze Repozytorium
 | Wartosc1 | Wartosc2 |
 
 ### Kolejny tytuł
+
+- [x] Punkt 1
+- [ ] Punkt 2
+- [x] Punkt 3
