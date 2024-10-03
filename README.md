@@ -14,8 +14,9 @@ Pierwsze Repozytorium
 
 ### Kolejny tytuł
 
+This is a test repository to get familiar with working with github.
+
 - [x] Punkt 1
 - [ ] Punkt 2
 - [x] Punkt 3
 - [ ] 
-This is a test repository to get familiar with working with github.
